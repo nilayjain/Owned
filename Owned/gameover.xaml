@@ -1,0 +1,49 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="Owned.gameover"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="True">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel contains the name of the application and page title-->
+        <StackPanel Grid.Row="0" Margin="12,17,0,28">
+            <TextBlock Style="{StaticResource PhoneTextNormalStyle}"/>
+            <TextBlock Text="Game Over" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}" TextAlignment="Center"/>
+        </StackPanel>
+
+        <!--ContentPanel - place additional content here-->
+        <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="7*"/>
+                <ColumnDefinition Width="17*"/>
+            </Grid.ColumnDefinitions>
+            <TextBlock HorizontalAlignment="Left" Height="64" Margin="73,158,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="193" FontSize="40" FontFamily="Century Gothic" Grid.ColumnSpan="2">
+            	<Run Text="Score"/>
+            	<Run Text=" :"/>
+            </TextBlock>
+            <TextBlock HorizontalAlignment="Left" Height="45" Margin="73,227,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="193" FontSize="30" FontFamily="Century Gothic" Grid.ColumnSpan="2" Text="High Score :"/>
+            <TextBlock HorizontalAlignment="Left" Height="64" Margin="73,48,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="338" FontSize="40" FontFamily="Century Gothic" Grid.ColumnSpan="2" Text="You got owned !"/>
+            <TextBlock x:Name="score" HorizontalAlignment="Left" Height="64" Margin="138,158,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="100" FontSize="40" FontFamily="Century Gothic" Grid.Column="1"/>
+            <TextBlock x:Name="highscore" HorizontalAlignment="Left" Height="45" Margin="138,227,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="86" FontSize="30" FontFamily="Century Gothic" Grid.Column="1"/>
+            <Button Content="Restart" HorizontalAlignment="Left" Margin="104,435,0,0" VerticalAlignment="Top" Height="106" Width="253" Grid.ColumnSpan="2" FontFamily="Century Gothic" FontSize="35" Click="Button_Click_1"/>
+            <Button Content="Post Score" HorizontalAlignment="Left" Margin="104,324,0,0" VerticalAlignment="Top" Height="106" Width="253" Grid.ColumnSpan="2" FontFamily="Century Gothic" FontSize="35" Click="Button_Click_2"/>
+
+        </Grid>
+    </Grid>
+
+</phone:PhoneApplicationPage>

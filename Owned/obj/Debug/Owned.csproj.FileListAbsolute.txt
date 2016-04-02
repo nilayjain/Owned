@@ -1,0 +1,125 @@
+c:\users\nitesh vijay\documents\visual studio 2012\Projects\Owned\Owned\Bin\Debug\Assets\ApplicationIcon.png
+c:\users\nitesh vijay\documents\visual studio 2012\Projects\Owned\Owned\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+c:\users\nitesh vijay\documents\visual studio 2012\Projects\Owned\Owned\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+c:\users\nitesh vijay\documents\visual studio 2012\Projects\Owned\Owned\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+c:\users\nitesh vijay\documents\visual studio 2012\Projects\Owned\Owned\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+c:\users\nitesh vijay\documents\visual studio 2012\Projects\Owned\Owned\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+c:\users\nitesh vijay\documents\visual studio 2012\Projects\Owned\Owned\Bin\Debug\Owned.dll
+c:\users\nitesh vijay\documents\visual studio 2012\Projects\Owned\Owned\Bin\Debug\Owned.pdb
+c:\users\nitesh vijay\documents\visual studio 2012\Projects\Owned\Owned\Bin\Debug\AppManifest.xaml
+c:\users\nitesh vijay\documents\visual studio 2012\Projects\Owned\Owned\Bin\Debug\Properties\WMAppManifest.xml
+c:\users\nitesh vijay\documents\visual studio 2012\Projects\Owned\Owned\Bin\Debug\Owned_Debug_AnyCPU.xap
+c:\users\nitesh vijay\documents\visual studio 2012\Projects\Owned\Owned\obj\Debug\App.g.cs
+c:\users\nitesh vijay\documents\visual studio 2012\Projects\Owned\Owned\obj\Debug\MainPage.g.cs
+c:\users\nitesh vijay\documents\visual studio 2012\Projects\Owned\Owned\obj\Debug\Owned.g.resources
+c:\users\nitesh vijay\documents\visual studio 2012\Projects\Owned\Owned\obj\Debug\Owned.Resources.AppResources.resources
+c:\users\nitesh vijay\documents\visual studio 2012\Projects\Owned\Owned\obj\Debug\Owned.csproj.GenerateResource.Cache
+c:\users\nitesh vijay\documents\visual studio 2012\Projects\Owned\Owned\obj\Debug\Owned.dll
+c:\users\nitesh vijay\documents\visual studio 2012\Projects\Owned\Owned\obj\Debug\Owned.pdb
+c:\users\nitesh vijay\documents\visual studio 2012\Projects\Owned\Owned\obj\Debug\XapCacheFile.xml
+c:\users\nitesh vijay\documents\visual studio 2012\Projects\Owned\Owned\obj\Debug\classic.g.cs
+c:\users\nitesh vijay\documents\visual studio 2012\Projects\Owned\Owned\obj\Debug\gameover.g.cs
+c:\users\nitesh vijay\documents\visual studio 2012\Projects\Owned\Owned\obj\Debug\alarm.g.cs
+c:\users\nitesh vijay\documents\visual studio 2012\Projects\Owned\Owned\obj\Debug\Owned.csprojResolveAssemblyReference.cache
+c:\users\nitesh vijay\documents\visual studio 2012\Projects\Owned\Owned\obj\Debug\AddNotification.g.cs
+c:\users\nitesh vijay\documents\visual studio 2012\Projects\Owned\Owned\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+c:\users\nitesh vijay\documents\visual studio 2012\Projects\Owned\Owned\Bin\Debug\Microsoft.Phone.Controls.dll
+c:\users\nitesh vijay\documents\visual studio 2012\Projects\Owned\Owned\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+c:\users\nitesh vijay\documents\visual studio 2012\Projects\Owned\Owned\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+c:\users\nitesh vijay\documents\visual studio 2012\Projects\Owned\Owned\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+c:\users\nitesh vijay\documents\visual studio 2012\Projects\Owned\Owned\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+c:\users\nitesh vijay\documents\visual studio 2012\Projects\Owned\Owned\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+c:\users\nitesh vijay\documents\visual studio 2012\Projects\Owned\Owned\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+c:\users\nitesh vijay\documents\visual studio 2012\Projects\Owned\Owned\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+c:\users\nitesh vijay\documents\visual studio 2012\Projects\Owned\Owned\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+c:\users\nitesh vijay\documents\visual studio 2012\Projects\Owned\Owned\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+c:\users\nitesh vijay\documents\visual studio 2012\Projects\Owned\Owned\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+c:\users\nitesh vijay\documents\visual studio 2012\Projects\Owned\Owned\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+c:\users\nitesh vijay\documents\visual studio 2012\Projects\Owned\Owned\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+c:\users\nitesh vijay\documents\visual studio 2012\Projects\Owned\Owned\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+c:\users\nitesh vijay\documents\visual studio 2012\Projects\Owned\Owned\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+c:\users\nitesh vijay\documents\visual studio 2012\Projects\Owned\Owned\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+c:\users\nitesh vijay\documents\visual studio 2012\Projects\Owned\Owned\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+c:\users\nitesh vijay\documents\visual studio 2012\Projects\Owned\Owned\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+c:\users\nitesh vijay\documents\visual studio 2012\Projects\Owned\Owned\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+c:\users\nitesh vijay\documents\visual studio 2012\Projects\Owned\Owned\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+c:\users\nitesh vijay\documents\visual studio 2012\Projects\Owned\Owned\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+c:\users\nitesh vijay\documents\visual studio 2012\Projects\Owned\Owned\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+c:\users\nitesh vijay\documents\visual studio 2012\Projects\Owned\Owned\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+c:\users\nitesh vijay\documents\visual studio 2012\Projects\Owned\Owned\obj\Debug\ShowParams.g.cs
+C:\Users\Nitesh Vijay\Documents\Visual Studio 2012\Projects\Owned\Owned\obj\Debug\leaderboard.g.cs
+C:\Users\Nitesh Vijay\Documents\Visual Studio 2012\Projects\Owned\Owned\Bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\Nitesh Vijay\Documents\Visual Studio 2012\Projects\Owned\Owned\Bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\Nitesh Vijay\Documents\Visual Studio 2012\Projects\Owned\Owned\Bin\Debug\Microsoft.WindowsAzure.Mobile.UI.dll
+C:\Users\Nitesh Vijay\Documents\Visual Studio 2012\Projects\Owned\Owned\Bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nitesh Vijay\Documents\Visual Studio 2012\Projects\Owned\Owned\Bin\Debug\System.Net.Http.dll
+C:\Users\Nitesh Vijay\Documents\Visual Studio 2012\Projects\Owned\Owned\Bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Nitesh Vijay\Documents\Visual Studio 2012\Projects\Owned\Owned\Bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Nitesh Vijay\Documents\Visual Studio 2012\Projects\Owned\Owned\Bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\Nitesh Vijay\Documents\Visual Studio 2012\Projects\Owned\Owned\Bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+C:\Users\Nitesh Vijay\Documents\Visual Studio 2012\Projects\Owned\Owned\Bin\Debug\Microsoft.WindowsAzure.Mobile.UI.xml
+C:\Users\Nitesh Vijay\Documents\Visual Studio 2012\Projects\Owned\Owned\Bin\Debug\Newtonsoft.Json.xml
+C:\Users\Nitesh Vijay\Documents\Visual Studio 2012\Projects\Owned\Owned\Bin\Debug\System.Net.Http.xml
+C:\Users\Nitesh Vijay\Documents\Visual Studio 2012\Projects\Owned\Owned\Bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Nitesh Vijay\Documents\Visual Studio 2012\Projects\Owned\Owned\Bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Nilay Jain\Desktop\Owned\Owned\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Nilay Jain\Desktop\Owned\Owned\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Nilay Jain\Desktop\Owned\Owned\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Nilay Jain\Desktop\Owned\Owned\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Nilay Jain\Desktop\Owned\Owned\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Nilay Jain\Desktop\Owned\Owned\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Nilay Jain\Desktop\Owned\Owned\Bin\Debug\Owned.dll
+C:\Users\Nilay Jain\Desktop\Owned\Owned\Bin\Debug\Owned.pdb
+C:\Users\Nilay Jain\Desktop\Owned\Owned\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Nilay Jain\Desktop\Owned\Owned\Bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\Nilay Jain\Desktop\Owned\Owned\Bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\Nilay Jain\Desktop\Owned\Owned\Bin\Debug\Microsoft.WindowsAzure.Mobile.UI.dll
+C:\Users\Nilay Jain\Desktop\Owned\Owned\Bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nilay Jain\Desktop\Owned\Owned\Bin\Debug\System.Net.Http.dll
+C:\Users\Nilay Jain\Desktop\Owned\Owned\Bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Nilay Jain\Desktop\Owned\Owned\Bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Nilay Jain\Desktop\Owned\Owned\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Nilay Jain\Desktop\Owned\Owned\Bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\Nilay Jain\Desktop\Owned\Owned\Bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+C:\Users\Nilay Jain\Desktop\Owned\Owned\Bin\Debug\Microsoft.WindowsAzure.Mobile.UI.xml
+C:\Users\Nilay Jain\Desktop\Owned\Owned\Bin\Debug\Newtonsoft.Json.xml
+C:\Users\Nilay Jain\Desktop\Owned\Owned\Bin\Debug\System.Net.Http.xml
+C:\Users\Nilay Jain\Desktop\Owned\Owned\Bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Nilay Jain\Desktop\Owned\Owned\Bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Nilay Jain\Desktop\Owned\Owned\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nilay Jain\Desktop\Owned\Owned\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nilay Jain\Desktop\Owned\Owned\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nilay Jain\Desktop\Owned\Owned\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nilay Jain\Desktop\Owned\Owned\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nilay Jain\Desktop\Owned\Owned\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nilay Jain\Desktop\Owned\Owned\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nilay Jain\Desktop\Owned\Owned\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nilay Jain\Desktop\Owned\Owned\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nilay Jain\Desktop\Owned\Owned\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nilay Jain\Desktop\Owned\Owned\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nilay Jain\Desktop\Owned\Owned\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nilay Jain\Desktop\Owned\Owned\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nilay Jain\Desktop\Owned\Owned\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nilay Jain\Desktop\Owned\Owned\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nilay Jain\Desktop\Owned\Owned\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nilay Jain\Desktop\Owned\Owned\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nilay Jain\Desktop\Owned\Owned\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nilay Jain\Desktop\Owned\Owned\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nilay Jain\Desktop\Owned\Owned\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nilay Jain\Desktop\Owned\Owned\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nilay Jain\Desktop\Owned\Owned\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nilay Jain\Desktop\Owned\Owned\obj\Debug\Owned.csprojResolveAssemblyReference.cache
+C:\Users\Nilay Jain\Desktop\Owned\Owned\obj\Debug\App.g.cs
+C:\Users\Nilay Jain\Desktop\Owned\Owned\obj\Debug\AddNotification.g.cs
+C:\Users\Nilay Jain\Desktop\Owned\Owned\obj\Debug\alarm.g.cs
+C:\Users\Nilay Jain\Desktop\Owned\Owned\obj\Debug\classic.g.cs
+C:\Users\Nilay Jain\Desktop\Owned\Owned\obj\Debug\gameover.g.cs
+C:\Users\Nilay Jain\Desktop\Owned\Owned\obj\Debug\leaderboard.g.cs
+C:\Users\Nilay Jain\Desktop\Owned\Owned\obj\Debug\MainPage.g.cs
+C:\Users\Nilay Jain\Desktop\Owned\Owned\obj\Debug\newuser.g.cs
+C:\Users\Nilay Jain\Desktop\Owned\Owned\obj\Debug\ShowParams.g.cs
+C:\Users\Nilay Jain\Desktop\Owned\Owned\obj\Debug\Owned.g.resources
+C:\Users\Nilay Jain\Desktop\Owned\Owned\obj\Debug\Owned.Resources.AppResources.resources
+C:\Users\Nilay Jain\Desktop\Owned\Owned\obj\Debug\Owned.csproj.GenerateResource.Cache
+C:\Users\Nilay Jain\Desktop\Owned\Owned\obj\Debug\Owned.dll
+C:\Users\Nilay Jain\Desktop\Owned\Owned\obj\Debug\Owned.pdb
